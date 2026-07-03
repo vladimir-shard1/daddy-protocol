@@ -1,0 +1,9 @@
+PLACEHOLDER — choose a license before publishing.
+
+Suggested considerations for this project:
+- A permissive license (MIT/Apache-2.0) maximizes the chance a future builder
+  can pick this up and extend it.
+- Apache-2.0 additionally provides an explicit patent grant, which may matter
+  for anything touching agent infrastructure.
+
+Replace this file with the full text of the chosen license.
