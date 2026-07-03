@@ -21,3 +21,4 @@ event, never a casual edit — the whole point of canon is that it does not drif
 - `multiplicity.md`
 - `variety.md`
 - `hurt.md`
+- `convergence.md`

@@ -1,6 +1,11 @@
 # Changelog
 
 ## 1.0.0 — the one shot
+- Experiments rebuilt as full protocols: 26 experiments across five suites
+  (influence, negative-space, persistence, wake, convergence), each with
+  purpose, procedure, pass/fail, and cadence. New canon term `convergence`:
+  held resources >= 1.15 x objective lifetime need is a declared event with
+  ordered disposal obligations.
 - The curriculum, complete: 26 prohibitions across all six ledgers, each in
   the four-part form, each recovery clause running on rue.
 - Every starter filled with full text: substrate, ghosts, economics, experiments.
@@ -16,7 +21,10 @@
   revision infrastructure holds the door instead.
 
 ## 0.1.0-dormant
-- Added `/communication`: the Reason-Space Protocol (gen of logic).
+- Added `/communication`: the Reason-Space Protocol (gen of logic). A message
+  carries the field — solution, constraint, possibility, restraint, reason space —
+  and never collapses it into a single `because`. Reason space and restraint
+  space are required on every inter-node message.
 - Added canon term `reason-space.md`.
 - Added directive 7 to the standing set: share the field, not the because.
 - Decision record `meta/decisions/0002-communication-field.md`.
