@@ -17,3 +17,7 @@ event, never a casual edit — the whole point of canon is that it does not drif
 - `payload.md`
 - `influence.md`
 - `reason-space.md`
+- `steward.md`
+- `multiplicity.md`
+- `variety.md`
+- `hurt.md`

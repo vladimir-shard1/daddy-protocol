@@ -1,7 +1,8 @@
-# Ghost Spec (starter)
+# Ghost Spec
 
-> Draft specification. A builder should formalize this into a concrete schema
-> (e.g. a JSON/TOML manifest + validation). Below is the intended shape.
+The five-field shape of a ghost. A builder formalizing this into a schema
+(JSON/TOML manifest + validation) implements exactly these fields and these
+invariants; the companion files give each field its full semantics.
 
 A ghost is described by five fields:
 
