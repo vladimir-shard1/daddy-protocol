@@ -1,0 +1,28 @@
+# Environments
+.env
+.env.*
+*.key
+*.pem
+wallet.json
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Logs & scratch
+*.log
+scratch/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
